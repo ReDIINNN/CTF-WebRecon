@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ReDIINNN/CTF-WebRecon/main/webrecon.png" alt="WebRecon Logo" width="300"/>
+</p>
+
+
+
 CTF-WebRecon
 CTF-WebRecon, web pentesting ve CTF'ler için geliştirilmiş, Türkçe menüye sahip, kullanıcı dostu bir Python aracıdır. Subdomain tarama, directory bruteforce, temel zafiyet kontrolü (XSS, SQLi) ve HTTP response analizi yapar. Tüm özellikler tek bir script üzerinden, kolayca seçilebilir.
 
