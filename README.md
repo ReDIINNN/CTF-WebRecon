@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 Script’i çalıştırın:
-python CTF-WebRecon.py
+python3 CTF-WebRecon.py
 
 
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 
 Run the script:
-python CTF-WebRecon.py
+python3 CTF-WebRecon.py
 
 
 
