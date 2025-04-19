@@ -1,0 +1,16 @@
+admin
+login
+config
+backup
+uploads
+files
+images
+css
+js
+api
+test
+dashboard
+panel
+user
+index.php
+index.html
