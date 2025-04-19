@@ -20,7 +20,7 @@ pip ve python3-venv
 Adımlar
 
 Repoyu klonlayın:
-git clone https://github.com/<kullanıcı-adın>/CTF-WebRecon.git
+git clone https://github.com/ReDIINNN/CTF-WebRecon.git
 cd CTF-WebRecon
 
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 
 Script’i çalıştırın:
-python ctf_webrecon.py
+python CTF-WebRecon.py
 
 
 
@@ -54,7 +54,7 @@ pip and python3-venv
 Steps
 
 Clone the repository:
-git clone https://github.com/<your-username>/CTF-WebRecon.git
+git clone https://github.com/ReDIINNN/CTF-WebRecon.git
 cd CTF-WebRecon
 
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 
 Run the script:
-python ctf_webrecon.py
+python CTF-WebRecon.py
 
 
 
@@ -80,7 +80,7 @@ wordlist.txt: For directory bruteforce (auto-generated if missing).
 
 Kullanım (Türkçe)
 
-Script’i çalıştırın: python ctf_webrecon.py
+Script’i çalıştırın: python CTF-WebRecon.py
 Menüden bir seçenek seçin (1-5):
 1: Subdomain Tarama (örn: example.com)
 2: Directory Bruteforce (örn: http://example.com)
@@ -94,7 +94,7 @@ Sonuçlar JSON dosyalarına kaydedilir.
 
 Usage (English)
 
-Run the script: python ctf_webrecon.py
+Run the script: python CTF-WebRecon.py
 Select an option from the menu (1-5):
 1: Subdomain Enumeration (e.g., example.com)
 2: Directory Bruteforce (e.g., http://example.com)
