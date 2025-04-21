@@ -4,7 +4,7 @@
 
 
 
-CTF-WebRecon
+
 CTF-WebRecon, web pentesting ve CTF'ler için geliştirilmiş, Türkçe menüye sahip, kullanıcı dostu bir Python aracıdır. Subdomain tarama, directory bruteforce, temel zafiyet kontrolü (XSS, SQLi) ve HTTP response analizi yapar. Tüm özellikler tek bir script üzerinden, kolayca seçilebilir.
 
 Özellikler
